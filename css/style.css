@@ -1,6 +1,7 @@
 body {
   font-family: serif;
   font-size: 1rem;
+  color: snow;
   margin: 0 auto;
   padding: 0px;
   overflow-x: hidden;
@@ -31,25 +32,10 @@ header a {
   padding: auto;
 }
 
-.sideCol img {
-  border-radius: 60%;
-  height: 250px;
-  padding: 40px;
-}
-
-.social {
-  padding-left: 150px;
-  color: aliceblue;
-}
-
-.social a:hover {
-  size: 30px;
-  color: snow;
-}
-
 .main {
   padding: 30px;
-  background-color: rgb(236, 234, 234);
+  background-image: url(/Images/magicpattern-f8sDFh-So88-unsplash.jpg);
+  z-index: 2;
 }
 
 strong {
@@ -57,7 +43,7 @@ strong {
 }
 
 a {
-  color: black;
+  color: snow;
 }
 
 a:hover {

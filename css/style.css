@@ -27,9 +27,18 @@ header a {
 }
 
 .sideCol {
-  width: auto;
   background-color: rgb(192, 150, 150);
   padding: auto;
+}
+
+.social img {
+  height: 50px;
+  padding-top: 20px;
+  padding-left: 80px;
+}
+
+img:hover {
+  height: 55px;
 }
 
 .main {
@@ -48,7 +57,7 @@ a {
 
 a:hover {
   color: rgb(71, 64, 116);
-  font-size: 25px;
+  font-size: 30px;
 }
 
 footer {
